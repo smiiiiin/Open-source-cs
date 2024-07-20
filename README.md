@@ -1,14 +1,143 @@
 # open-source-cs
 
-The Open Source Computer Science Degree
+## The Open Source Computer Science Degree
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
-Computer Science Basics
+## Computer Science Basics
 
-| 헤더 1   | 헤더 2   | 헤더 3   |
-| -------- | -------- | -------- |
-| 내용 1-1 [OpenAI](https://www.openai.com) | 내용 1-2 | 내용 1-3 |
-| 내용 2-1 | 내용 2-2 | 내용 2-3 |
-| 내용 3-1 | 내용 3-2 | 내용 3-3 |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Courses</th>
+      <th>School</th>
+      <th>Duration</th>
+      <th>Effort</th>
+      <th>Frequency</th>
+      <th>Prerequisites</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.openai.com">Algorithm</a></td>
+      <td>Samsung SDS</td>
+      <td>2<br>weeks</td>
+      <td> 40 <br> hours/week </td>
+      <td>everyday</td>
+      <td>none</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+   
+    
+  </tbody>
+</table>
 
+</div>
+
+
+
+## Algorithm
+<table border="1">
+  <thead>
+    <tr>
+      <th>Courses</th>
+      <th>School</th>
+      <th>Duration</th>
+      <th>Effort</th>
+      <th>Frequency</th>
+      <th>Prerequisites</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+   
+    
+  </tbody>
+</table>
+
+</div>
+
+
+
+
+## Math
+<table border="1">
+  <thead>
+    <tr>
+      <th>Courses</th>
+      <th>School</th>
+      <th>Duration</th>
+      <th>Effort</th>
+      <th>Frequency</th>
+      <th>Prerequisites</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openai.com">OpenAI</a></td>
+      <td>내용 1-2</td>
+      <td>내용 1-3</td>
+      <td>내용 1-4</td>
+      <td>내용 1-5</td>
+      <td>내용 1-6</td>
+    </tr>
+   
+    
+  </tbody>
+</table>
+
+</div>
 
