@@ -19,7 +19,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
   
   <tbody>
     <tr>
-      <td><a href="https://www.openai.com"> C++ Algorithm</a></td>
+      <td><a href="https://www.samsungsds.com/kr/index.html"> C++ Algorithm</a></td>
       <td>Samsung SDS</td>
       <td> 2 <br> weeks</td>
       <td> 40 <br>hours/week </td>
@@ -35,7 +35,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
       <td>none</td>
     </tr>
     <tr>
-      <td><a href="https://www.openai.com">C language Grammar </a></td>
+      <td><a href="[https://www.openai.com](https://kn.tjoeun.co.kr/?gad_source=1&gclid=CjwKCAjwhvi0BhA4EiwAX25ujyNaatDbhrYqkIqJauOVieUH5uEBXM0p-neAbP0QWuh2fiFsbiBoBRoCiOAQAvD_BwE)">C language Grammar </a></td>
       <td>Worknet HRD</td>
       <td> 1 <br>months</td>
       <td> 15 <br>hours/week </td>
@@ -50,7 +50,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 
 
-## Algorithm
+## CS Basics
 <table border="1">
   <thead>
     <tr>
@@ -64,28 +64,36 @@ This is a curated list of free courses from reputable universities like MIT, Sta
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
+      <td><a href="https://eng.inha.ac.kr/eng/index.do"> Network & Wireless Communication</a></td>
+      <td>INHA university</td>
+      <td> 3 <br> months</td>
+      <td> 4 <br>hours/week </td>
+      <td> 2 <br> a week </td>
+      <td>none</td>
     </tr>
     <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
+      <td><a href="https://eng.inha.ac.kr/eng/index.do">Diagrams</a></td>
+      <td>INHA university</td>
+      <td> 3 <br> months</td>
+      <td> 4 <br>hours/week </td>
+      <td> 2 <br> a week </td>
+      <td>none</td>
     </tr>
     <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
+      <td><a href="https://eng.inha.ac.kr/eng/index.do">Deep learning</a></td>
+      <td>INHA university</td>
+      <td> 3 <br> months</td>
+      <td> 3 <br>hours/week </td>
+      <td> 2 <br> a week </td>
+      <td>none</td>
+    </tr>
+    <tr>
+      <td><a href="https://elice.io/ko">AI Bootcamp</a></td>
+      <td>Alice</td>
+      <td> none </td>
+      <td> 7 <br>hours/a day </td>
+      <td> 1 day </td>
+      <td>none</td>
     </tr>
    
     
@@ -93,48 +101,6 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 </table>
 
 </div>
-
-
-
-
-## Math
-<table border="1">
-  <thead>
-    <tr>
-      <th>Courses</th>
-      <th>School</th>
-      <th>Duration</th>
-      <th>Effort</th>
-      <th>Frequency</th>
-      <th>Prerequisites</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.openai.com">OpenAI</a></td>
-      <td>내용 1-2</td>
-      <td>내용 1-3</td>
-      <td>내용 1-4</td>
-      <td>내용 1-5</td>
-      <td>내용 1-6</td>
-    </tr>
-   
     
   </tbody>
 </table>
