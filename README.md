@@ -27,7 +27,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
       <td>none</td>
     </tr>
     <tr>
-      <td><a href="https://www.acmicpc.net">Algorithm</a></td>
+      <td><a href="https://www.acmicpc.net/">Algorithm</a></td>
       <td>BAEKJOON</td>
       <td> 5 <br>months</td>
       <td> 30 <br>hours/week </td>
