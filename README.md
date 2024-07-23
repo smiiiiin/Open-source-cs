@@ -21,24 +21,24 @@ This is a curated list of free courses from reputable universities like MIT, Sta
     <tr>
       <td><a href="https://www.openai.com"> C++ Algorithm</a></td>
       <td>Samsung SDS</td>
-      <td> 2 weeks</td>
-      <td> 40 hours/week </td>
+      <td> 2 <br> weeks</td>
+      <td> 40 <br>hours/week </td>
       <td>everyday</td>
       <td>none</td>
     </tr>
     <tr>
       <td><a href="https://www.acmicpc.net">Algorithm</a></td>
       <td>BAEKJOON</td>
-      <td> 5 months</td>
-      <td> 30 hours/week </td>
+      <td> 5 <br>months</td>
+      <td> 30 <br>hours/week </td>
       <td>everyday</td>
       <td>none</td>
     </tr>
     <tr>
       <td><a href="https://www.openai.com">C language Grammar </a></td>
       <td>Worknet HRD</td>
-      <td> 1 months</td>
-      <td> 15 hours/week </td>
+      <td> 1 <br>months</td>
+      <td> 15 <br>hours/week </td>
       <td>everyday</td>
       <td>none</td>
     </tr>
