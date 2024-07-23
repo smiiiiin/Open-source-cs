@@ -35,7 +35,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
       <td>none</td>
     </tr>
     <tr>
-      <td><a href="[https://www.openai.com](https://kn.tjoeun.co.kr/?gad_source=1&gclid=CjwKCAjwhvi0BhA4EiwAX25ujyNaatDbhrYqkIqJauOVieUH5uEBXM0p-neAbP0QWuh2fiFsbiBoBRoCiOAQAvD_BwE)">C language Grammar </a></td>
+      <td><a href="https://kn.tjoeun.co.kr/?gad_source=1&gclid=CjwKCAjwhvi0BhA4EiwAX25ujyNaatDbhrYqkIqJauOVieUH5uEBXM0p-neAbP0QWuh2fiFsbiBoBRoCiOAQAvD_BwE">C language Grammar </a></td>
       <td>Worknet HRD</td>
       <td> 1 <br>months</td>
       <td> 15 <br>hours/week </td>
