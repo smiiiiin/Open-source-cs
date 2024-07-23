@@ -16,11 +16,12 @@ This is a curated list of free courses from reputable universities like MIT, Sta
       <th>Prerequisites</th>
     </tr>
   </thead>
+  
   <tbody>
     <tr>
       <td><a href="https://www.openai.com"> C++ Algorithm</a></td>
       <td>Samsung SDS</td>
-      <td>2<br>weeks</td>
+      <td> 2 <br>weeks</td>
       <td> 40 <br> hours/week </td>
       <td>everyday</td>
       <td>none</td>
@@ -28,7 +29,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
     <tr>
       <td><a href="https://www.acmicpc.net">Algorithm</a></td>
       <td>BAEKJOON</td>
-      <td>5<br>months</td>
+      <td> 5 <br>months</td>
       <td> 30 <br> hours/week </td>
       <td>everyday</td>
       <td>none</td>
@@ -36,14 +37,13 @@ This is a curated list of free courses from reputable universities like MIT, Sta
     <tr>
       <td><a href="https://www.openai.com">C landuage Grammar </a></td>
       <td>Worknet HRD</td>
-      <td>1<br>months</td>
+      <td> 1 <br>months</td>
       <td> 15 <br> hours/week </td>
       <td>everyday</td>
       <td>none</td>
     </tr>
-   
-    
   </tbody>
+    
 </table>
 
 </div>
